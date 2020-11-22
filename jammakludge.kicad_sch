@@ -3175,6 +3175,15 @@
     (path "/759dcddd-278a-4384-a661-c312bd5cbf54/2023ad97-7a00-417d-abe6-b0a6ef098c7c"
       (reference "R3") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/759dcddd-278a-4384-a661-c312bd5cbf54/b8ca3ec2-f356-401f-9cd0-0998fb8fb481"
+      (reference "TP1") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/759dcddd-278a-4384-a661-c312bd5cbf54/e5597465-c2d0-4a53-9fa0-5cf1ea993684"
+      (reference "TP2") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/759dcddd-278a-4384-a661-c312bd5cbf54/d7c34130-9467-48da-89c7-9586cec23e5e"
+      (reference "TP3") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
     (path "/a783991f-2df1-4060-bcf0-83520b6e1e50/ae858ac2-142a-4c95-8ba3-7340ab638d11"
       (reference "C22") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -3199,6 +3208,15 @@
     (path "/a783991f-2df1-4060-bcf0-83520b6e1e50/2023ad97-7a00-417d-abe6-b0a6ef098c7c"
       (reference "R6") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/a783991f-2df1-4060-bcf0-83520b6e1e50/b8ca3ec2-f356-401f-9cd0-0998fb8fb481"
+      (reference "TP4") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/a783991f-2df1-4060-bcf0-83520b6e1e50/e5597465-c2d0-4a53-9fa0-5cf1ea993684"
+      (reference "TP5") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/a783991f-2df1-4060-bcf0-83520b6e1e50/d7c34130-9467-48da-89c7-9586cec23e5e"
+      (reference "TP6") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
     (path "/a649ec33-6b24-4248-a799-c95d0433b4d9/ae858ac2-142a-4c95-8ba3-7340ab638d11"
       (reference "C24") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -3222,6 +3240,15 @@
     )
     (path "/a649ec33-6b24-4248-a799-c95d0433b4d9/2023ad97-7a00-417d-abe6-b0a6ef098c7c"
       (reference "R9") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/a649ec33-6b24-4248-a799-c95d0433b4d9/b8ca3ec2-f356-401f-9cd0-0998fb8fb481"
+      (reference "TP7") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/a649ec33-6b24-4248-a799-c95d0433b4d9/e5597465-c2d0-4a53-9fa0-5cf1ea993684"
+      (reference "TP8") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/a649ec33-6b24-4248-a799-c95d0433b4d9/d7c34130-9467-48da-89c7-9586cec23e5e"
+      (reference "TP9") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
   )
 )
