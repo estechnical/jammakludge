@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 44,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -60,7 +60,7 @@
       37,
       38
     ],
-    "visible_layers": "ffcfc20_ffffffff"
+    "visible_layers": "ffcfd20_ffffffff"
   },
   "meta": {
     "filename": "jammakludge.kicad_prl",
