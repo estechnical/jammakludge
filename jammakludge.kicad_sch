@@ -1,7 +1,5 @@
 (kicad_sch (version 20201015) (generator eeschema)
 
-  (page 1 4)
-
   (paper "A4")
 
   (lib_symbols
@@ -3848,7 +3846,7 @@
       (reference "FB2") (unit 1) (value "FerriteBead") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/a783991f-2df1-4060-bcf0-83520b6e1e50/48976416-4046-4517-b20a-b3bf32ba26ac"
-      (reference "JP2") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+      (reference "JP2") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/a783991f-2df1-4060-bcf0-83520b6e1e50/70a6833b-a338-4a33-947a-56e1c08a30a4"
       (reference "L2") (unit 1) (value "L") (footprint "Resistor_SMD:R_1210_3225Metric")
@@ -3881,7 +3879,7 @@
       (reference "FB1") (unit 1) (value "FerriteBead") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/759dcddd-278a-4384-a661-c312bd5cbf54/48976416-4046-4517-b20a-b3bf32ba26ac"
-      (reference "JP1") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+      (reference "JP1") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/759dcddd-278a-4384-a661-c312bd5cbf54/70a6833b-a338-4a33-947a-56e1c08a30a4"
       (reference "L1") (unit 1) (value "L") (footprint "Resistor_SMD:R_1210_3225Metric")
@@ -3914,7 +3912,7 @@
       (reference "FB3") (unit 1) (value "FerriteBead") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/a649ec33-6b24-4248-a799-c95d0433b4d9/48976416-4046-4517-b20a-b3bf32ba26ac"
-      (reference "JP3") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+      (reference "JP3") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/a649ec33-6b24-4248-a799-c95d0433b4d9/70a6833b-a338-4a33-947a-56e1c08a30a4"
       (reference "L3") (unit 1) (value "L") (footprint "Resistor_SMD:R_1210_3225Metric")
